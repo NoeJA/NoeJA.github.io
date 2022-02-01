@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 | Hora  | Lunes   | Martes     | Miercoles   | Jueves    | Viernes   |
 |-------|---------|------------|-------------|-----------|-----------|
-| 8-9   | [Admin] (https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) | [CAD]      | [Admin]     | [CAD]     | [Admin] (https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09)   |
+| 8-9   | [Admin](https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) | [CAD]      | [Admin]     | [CAD]     | [Admin](https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09)   |
 | 9-10  |         |            |             |           | [Derecho] |
 | 10-11 | [Atm] ()   | [IA]       |             | [IA]      |           |
 | 11-12 |         |            |             |           |           |
