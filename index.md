@@ -5,12 +5,6 @@ You can use the [editor on GitHub](https://github.com/NoeJA/NoeJA.github.io/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Horario
 
 | Hora  | Lunes   | Martes     | Miercoles   | Jueves    | Viernes   |
@@ -24,6 +18,12 @@ Syntax highlighted code block
 | 14-15 |         |            |             | [Derecho] |           |
 | 15-16 |         |            |             |           |           |
 | 16-17 | [LT] ()   | [LT]       | [LT]        | [LT]      | [LT]      |
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Horario
 
 
 - Bulleted
