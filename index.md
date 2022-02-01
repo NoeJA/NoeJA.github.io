@@ -12,8 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Horario
-## Header 2
-### Header 3
+
 | Hora      | Lunes | Martes     |Miercoles| Jueves | Viernes    |
 | :---        |    :----:   |          ---: |
 |  8-9    |  [Admin] (https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) |    |    |        |    |
