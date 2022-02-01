@@ -13,17 +13,17 @@ Syntax highlighted code block
 
 # Horario
 
-| Hora      | Lunes | Martes     |Miercoles| Jueves | Viernes    |
-| :---        |    :----:   |          ---: |:----:   |          ---: |:----:   |  
+| Hora      | Lunes | Martes     | Miercoles| Jueves | Viernes    |
+| :---        |    :----:   |          ---: | :----:   |          ---: | :----:   |  
 |  8-9    |  [Admin] (https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) |    |    |        |    |
 |  9 -10   |        |    |    |        |    |
 |  10-11    | [Atmos] (https://unam.zoom.us/j/88141509471?pwd=c2pRZmsrSG9ack90V1BROEQzSmxRdz09)       |    |    |        |    |
 |  11-12   |        |    |    |        |    |
-|  12-13   |[CAD](https://cuaieed-unam.zoom.us/j/95282082801)        |    |    |        |    |
+|  12-13   | [CAD](https://cuaieed-unam.zoom.us/j/95282082801)        |    |    |        |    |
 |  13-14   |        |    |    |        |    |
 |  14-15   |        |    |    |        |    |
 |  15-16   |        |    |    |        |    |
-|  16-17   |[LT] (https://us04web.zoom.us/j/71743863974?pwd=l7-FIu6vA92PEjkUVZP5jTATrtcazl.1)       |    |    |        |    |
+|  16-17   | [LT] (https://us04web.zoom.us/j/71743863974?pwd=l7-FIu6vA92PEjkUVZP5jTATrtcazl.1)       |    |    |        |    |
 |  17-18   |        |    |    |        |    |
 
 
