@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Horario
 
 | Hora      | Lunes | Martes     |Miercoles| Jueves | Viernes    |
-| :---        |    :----:   |          ---: |
+| :---        |    :----:   |          ---: |:----:   |          ---: |:----:   |  
 |  8-9    |  [Admin] (https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) |    |    |        |    |
 |  9 -10   |        |    |    |        |    |
 |  10-11    | [Atmos] (https://unam.zoom.us/j/88141509471?pwd=c2pRZmsrSG9ack90V1BROEQzSmxRdz09)       |    |    |        |    |
