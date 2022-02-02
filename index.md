@@ -11,13 +11,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |-------|---------|------------|-------------|-----------|-----------|
 | 8-9   | [Admin](https://us02web.zoom.us/j/89411837351?pwd=TUZwZlk4ekJjNkJkeWtmNmtZUmxSUT09) | CAD      | Admin     | CAD     | Admin   |
 | 9-10  |         |            |             |           | Derecho |
-| 10-11 | [Atm] (https://cuaieed-unam.zoom.us/j/3163010465)   | [IA](https://cuaieed-unam.zoom.us/j/2389730721?pwd=OSsvSHUyV0Q5VUs5YVlFYVhNbmJKdz09)       |       | IA      |           |
+| 10-11 | [Atm](https://cuaieed-unam.zoom.us/j/3163010465)   | [IA](https://cuaieed-unam.zoom.us/j/2389730721?pwd=OSsvSHUyV0Q5VUs5YVlFYVhNbmJKdz09)       |       | IA      |           |
 | 11-12 |         |            |             |           |           |
-| 12-13 | [CAD] (https://cuaieed-unam.zoom.us/j/95282082801)   | [Estancia](https://cuaieed-unam.zoom.us/j/81440554784) | CAD ,Atm | Estancia  | Atm     |
+| 12-13 | [CAD](https://cuaieed-unam.zoom.us/j/95282082801)   | [Estancia](https://cuaieed-unam.zoom.us/j/81440554784) | CAD ,Atm | Estancia  | Atm     |
 | 13-14 |         |            |             |           |           |
 | 14-15 |         |            |             | [Derecho](https://cuaieed-unam.zoom.us/j/87379798058?pwd=bTFIaUNIL3NLbFdNR2ZaVmNkSjc0UT09) |           |
 | 15-16 |         |            |             |           |           |
-| 16-17 | [LT] (https://us04web.zoom.us/j/71743863974?pwd=l7-FIu6vA92PEjkUVZP5jTATrtcazl.1)   | LT       | LT        | LT    | LT      |
+| 16-17 | [LT](https://us04web.zoom.us/j/71743863974?pwd=l7-FIu6vA92PEjkUVZP5jTATrtcazl.1)   | LT       | LT        | LT    | LT      |
 
 
 ```markdown
