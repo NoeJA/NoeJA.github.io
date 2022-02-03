@@ -1,3 +1,6 @@
+<<r setup, include=FALSE>>=
+knitr::opts_chunk$set(echo=FALSE, engine='whathaveyou', ...)
+@
 ---
 title: "Jupyter Document"
 format: 
@@ -6,7 +9,7 @@ format:
 jupyter: python3
 ---
 
-```{python}
+<<engine='python', engine.path='python3'>>=
 import webbrowser
 import time
 import datetime
@@ -34,5 +37,7 @@ for i in range(len(schedule_dict["monday"])):
     if tin_range(hour,hour+timedelta(minutes=98),current_time()):
         print(f"Abriendo {schedule_dict[day][i]}")
         webbrowser.open(schedule_dict[enlace][i])    
+@
 
-```
+
+
