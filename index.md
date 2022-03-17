@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | 13-14 |         |            |             |           |           |
 | 14-15 |         |            |             | [Derecho](https://cuaieed-unam.zoom.us/j/87379798058?pwd=bTFIaUNIL3NLbFdNR2ZaVmNkSjc0UT09) |           |
 | 15-16 |         |            |             |           |           |
-| 16-17 | [LT](https://us04web.zoom.us/j/71743863974?pwd=l7-FIu6vA92PEjkUVZP5jTATrtcazl.1)   | LT       | LT        | LT    | LT      |
+| 16-17 | [LT](https://cuaieed-unam.zoom.us/j/86279021125)   | LT       | LT        | LT    | LT      |
 
 
 ```markdown
